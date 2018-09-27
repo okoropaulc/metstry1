@@ -1,0 +1,8 @@
+The phred score used to trimmed the bases is 30. 
+The parameters below are approximated
+
+For this whole folder, the truncLen = c(200, 150)
+For the subforlders here:
+First - MergePairs = (minOverLap = 20 (default))
+Second  - MergePairs = (minOverLap = 10)
+Third - MergePairs = (justConcatenate = TRUE)
